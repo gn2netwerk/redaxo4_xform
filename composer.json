@@ -1,0 +1,7 @@
+{
+    "name": "yakamara/redaxo4_xform",
+    "type": "redaxo-addon",
+    "extra": {
+        "installer-name": "xform"
+    }
+}
